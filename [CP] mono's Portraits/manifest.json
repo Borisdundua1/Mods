@@ -1,0 +1,12 @@
+{
+    "Name": "mono's Portraits", // https://www.nexusmods.com/stardewvalley/mods/16649
+    "Author": "monoSDE",
+    "Version": "0.94",
+    "Description": "Full portrait replacement for all vanilla marriage candidates and villagers",
+    "UniqueID": "monoSDE.monosPortraits",
+    "UpdateKeys": [ "Nexus:16649" ],
+    "MinimumApiVersion": "4.0.0",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
